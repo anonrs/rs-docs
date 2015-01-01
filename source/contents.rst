@@ -1,7 +1,8 @@
-
-Contents:
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+  RS 2 Documentation Contents
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 .. toctree::
-:maxdepth: 3
 
-       varbit
+    index.rst
+    varbit.rst
