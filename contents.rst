@@ -4,5 +4,5 @@
 
 .. toctree::
 
-    index.rst
-    varbit.rst
+    source/index.rst
+    source/varbit.rst
