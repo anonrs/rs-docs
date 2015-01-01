@@ -46,7 +46,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Apollo RuneScape'
+project = u'RuneScape 2'
 copyright = u'2014, Anonrs Group'
 
 # The version info for the project you're documenting, acts as replacement for

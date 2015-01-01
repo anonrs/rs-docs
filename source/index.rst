@@ -3,8 +3,10 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to the documentation for Apollo RS!
-===========================================
+Welcome to the documentation for RuneScape 2!
+=============================================
+
+This wiki contains various docs on different aspects of the RuneScape 2 engine.
 
 Contents:
 
@@ -12,7 +14,6 @@ Contents:
    :maxdepth: 3
 
    varbit
-   rasterize_3d
 
 
 
