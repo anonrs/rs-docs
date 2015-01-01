@@ -3,7 +3,6 @@ Varbit (or variable bit width client configurations)
 
 .. caution::
     This information is incomplete! There may be other possible uses for the varbit config system that we are unaware of. We do however know that it is also tied into how widgets work.
-..
 
 What it is
 ----------
