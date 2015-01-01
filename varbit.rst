@@ -11,7 +11,7 @@ Object State
 ~~~~~~~~~~~~
 
 The configuration mapping system known as 'varbit' is responsible for handling object state, among other things. One of the main systems utilizing
-the varbit configuration system is farming. Objects which have alternate state have an array of item IDs which they can be mapped to. For example,
+the varbit configuration system is farming. Objects which have alternate state have an array of object IDs which they can be mapped to. For example,
 if I want the initial farming object to then advance to it's next state, I move the state pointer from -1 to 0 (-1 is identity state, 0 maps to that offset
 in the objects alternate state array). If I want to then advance the state of the object I simply increment that number again, and the object state will change to the
 next value in the array.
